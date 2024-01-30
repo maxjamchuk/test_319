@@ -3,4 +3,4 @@ def tst1():
 
 
 def tst2():
-  return 'tst2'
+  return 'tst2' + 'tst1'
